@@ -1,0 +1,23 @@
+* {
+    font-family: Verdana, Arial, sans-serif;
+}
+
+body {
+	background-color: #69969C;
+}
+.con {
+	color: red;
+}
+a {
+    color: #07103A;
+}
+
+#main {
+    max-width: 500px;
+    margin:auto;
+}
+.first-letter {
+  font-size: 35px;
+  line-height: 70px;
+  font-weight: bold;
+}
