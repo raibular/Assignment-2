@@ -29,3 +29,16 @@
     padding: 30px 0px;
 
 }
+* {
+    font-family: Verdana, Arial, sans-serif;
+}
+a {
+    color: #70579D;
+}
+.header{
+    background-color: azure;;
+}
+.footer{
+    background-color: azure;
+    height: 200px;
+}
