@@ -42,3 +42,33 @@ a {
     background-color: azure;
     height: 200px;
 }
+.ICONS{
+
+    margin-left:-68px ;
+}
+[class*='c-']{
+    width:100%;
+    float: left;
+    /*padding: 10px;*/
+
+
+}
+
+@media only screen and (min-width: 500px){
+    .c-small-6{
+        width: 50%;
+    }
+
+}
+@media only screen and (min-width: 700px){
+    .c-medium-4{
+        width:33.3%;
+    }
+
+}
+@media only screen and (min-width: 900px){
+    .c-large-3{
+        width:25%;
+    }
+
+}

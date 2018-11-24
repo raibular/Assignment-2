@@ -17,18 +17,18 @@ body{
     font-family: Calibri;
 
 }
-header{
+/*header{
     position: absolute;
     top: 0;
     left: 0;
     padding: 0 100px;
     width: 100%;
 
-}
+}*/
 .imh{
     background-color: #0069d9;
-    margin-top: 15px;
-    margin-left: -100px;
+    margin-top: 100px;
+    margin-left: 120px;
 
 }
 
