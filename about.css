@@ -1,9 +1,4 @@
-.team
-{   margin-top: 30px;
-    padding-left: 500px;
-    background-color: #0069d9;
 
-}
 .doing{
     padding-top: 50px;
 }
@@ -25,10 +20,11 @@ body{
     width: 100%;
 
 }*/
-.imh{
-    background-color: #0069d9;
-    margin-top: 100px;
-    margin-left: 120px;
+
+.team
+{   margin-top: 30px;
+    padding-left:0px;
+    background-color: #8e47e5;
 
 }
 
